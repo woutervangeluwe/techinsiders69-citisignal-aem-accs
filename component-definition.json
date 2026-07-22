@@ -112,7 +112,8 @@
               }
             }
           }
-        },{
+        },
+        {
           "title": "BrandConcierge",
           "id": "brandconcierge",
           "plugins": {
